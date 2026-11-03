@@ -1,0 +1,6 @@
+{
+  "name": "KAYFLOW — Business & Financial Operating System",
+  "description": "Professional, offline-first personal business operating system featuring custom categories, project management, financial ledger, salary, debt, budgets, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
